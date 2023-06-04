@@ -48,7 +48,7 @@
                     <h3>Study</h3>
                     <p>Explore and study flags from all over the world! -></p>
                 </div>
-                <img style="width: 7em; transform:translate(10%,-15%);" src="src/assets/earth.svg" alt="Earth" />
+                <img style="width: 7em; transform:translate(10%,-15%);" src="https://raw.githubusercontent.com/lmvjack/flags-game/1d472df6d16272f4a92e2f7944d68a56a234ac17/src/assets/earth.svg?token=A6UYUMADIUET7U6MBQNQRPDEPTGIM" alt="Earth" />
             </div>
         </Link>
         
@@ -57,8 +57,8 @@
         </div>
     </Router>
 
-    <div style="margin-top: 2em; width: 100%; height: 22em; background-image: url(src/assets/flags-background.png); background-size: 100%;"></div>
-    <!-- <img style="width: 100%; margin-top: 2em;" src="src/assets/flags-background.png" alt="Flags background" /> -->
+    <div style="margin-top: 2em; width: 100%; height: 22em; background-image: url(https://raw.githubusercontent.com/lmvjack/flags-game/1d472df6d16272f4a92e2f7944d68a56a234ac17/src/assets/flags-background.svg?token=A6UYUMG73FJ56VJLP5ABZCLEPTGO6); background-size: 100%;"></div>
+    <!-- <img style="width: 100%; margin-top: 2em;" src="https://raw.githubusercontent.com/lmvjack/flags-game/1d472df6d16272f4a92e2f7944d68a56a234ac17/src/assets/flags-background.svg?token=A6UYUMG73FJ56VJLP5ABZCLEPTGO6" alt="Flags background" /> -->
 
     <div class="buttons">
         <button class="select-category" on:click={toggleSelection}>
