@@ -104,9 +104,7 @@
     
     let rightOption: string[] = generateRightOption();
     let shuffled: any = shuffle([rightOption[1], generateRandomOption(), generateRandomOption(), generateRandomOption()]);
-
     function checkAnswer(answer: string, id: string): any {
-
 
         //Make buttons unclickable to prevent user from clicking again
         for (let button of document.getElementsByClassName("option")) {
